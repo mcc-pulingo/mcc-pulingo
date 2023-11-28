@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aravinth
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developeing
 - 🌱 I’m currently learning  python fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
